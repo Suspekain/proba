@@ -1,0 +1,6 @@
+Real::Athletic::1::2
+Betis::Sevilla::4::4
+Barcelona::Girona::4::1
+Osasuna::Eibar::2::3
+Villareal::Oiartzun::0::0
+Espanyol::Madrid::1::1

@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+
+public class Carro {
+	private String cliente;
+	private ArrayList<Producto> carro = new ArrayList<Producto>();
+
+	public Carro(String cliente, ArrayList<Producto> carro) {
+		this.cliente = cliente;
+		this.carro = carro;
+	}
+
+	public String getCliente() {
+		return cliente;
+	}
+
+	public void setCliente(String cliente) {
+		this.cliente = cliente;
+	}
+
+	public ArrayList<Producto> getProductos() {
+		return carro;
+	}
+
+	public void setProductos(ArrayList<Producto> carro) {
+		this.carro = carro;
+	}
+}
